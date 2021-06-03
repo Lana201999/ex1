@@ -1,0 +1,17 @@
+table {
+    font-family: Trebuchet MS, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  td {
+    border: 1px solid #10278a;
+    text-align: left;
+    padding: 8px;
+  }
+  
+ th{
+    border: 1px solid #10278a;
+    text-align: left;
+    padding: 8px;
+    background-color: cornflowerblue;
+ }
